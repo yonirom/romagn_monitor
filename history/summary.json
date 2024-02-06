@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.romagencies.com.ico",
     "slug": "rom-agencies",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 2614,
-    "timeDay": 2357,
-    "timeWeek": 2120,
-    "timeMonth": 2753,
-    "timeYear": 2614,
+    "uptimeYear": "99.97%",
+    "time": 2609,
+    "timeDay": 2376,
+    "timeWeek": 2165,
+    "timeMonth": 2766,
+    "timeYear": 2609,
     "dailyMinutesDown": {
       "2023-12-26": 23
     }
