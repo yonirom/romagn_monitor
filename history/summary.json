@@ -4,17 +4,17 @@
     "url": "https://www.romagencies.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.romagencies.com.ico",
     "slug": "rom-agencies",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2385,
-    "timeDay": 2070,
-    "timeWeek": 2450,
-    "timeMonth": 2387,
-    "timeYear": 2388,
+    "time": 2383,
+    "timeDay": 1722,
+    "timeWeek": 2195,
+    "timeMonth": 2354,
+    "timeYear": 2384,
     "dailyMinutesDown": {}
   }
 ]
