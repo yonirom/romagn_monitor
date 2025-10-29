@@ -6,17 +6,16 @@
     "slug": "rom-agencies",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.47%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 2425,
-    "timeDay": 2564,
-    "timeWeek": 2391,
-    "timeMonth": 2497,
+    "timeDay": 2401,
+    "timeWeek": 2414,
+    "timeMonth": 2496,
     "timeYear": 2434,
     "dailyMinutesDown": {
-      "2025-10-28": 8,
       "2025-04-29": 34
     }
   }
