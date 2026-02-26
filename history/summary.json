@@ -4,7 +4,7 @@
     "url": "https://www.romagencies.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.romagencies.com.ico",
     "slug": "rom-agencies",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.79%",
@@ -16,6 +16,7 @@
     "timeMonth": 2368,
     "timeYear": 2434,
     "dailyMinutesDown": {
+      "2026-02-26": 0,
       "2026-02-24": 21,
       "2025-11-18": 127,
       "2025-04-29": 34
